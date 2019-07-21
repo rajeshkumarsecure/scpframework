@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # Install the packages mentioned in the requirements.txt
 # The program currently supports uploading files/directories to remote system using SCP.
-# Support to downloading remote files/directories using SCP will be added in the upcoming version.
+# Support for downloading remote files/directories using SCP will be added in the upcoming version.
 
 
 __Author__ = "Rajesh Kumar N"
